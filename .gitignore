@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+vendor/
+node_modules/
+storage/
+backups/
+imports/
+exports/
+*.sqlite
+*.sql
+*.log
+*.csv
+*.xlsx
+*.pdf
+*.docx
+.DS_Store
